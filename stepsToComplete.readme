@@ -1,0 +1,18 @@
+The Dicee Challenge
+
+Pre-step: Download the starting file
+Alt pre-step: Create the starting file download (will do after I'm done with the course to bone up on my skills)
+
+Base steps
+Step 1: Create an index.js folder and link to html file. <script src="index.js" charset="utf-8">
+
+Step 2: Add starting images for the dice (link to images folder)
+
+Step 3: Create a random number generator. 1 - 6
+
+Step 4: Change <img> to a random dice
+
+Secondary steps
+Step 5: Change both elements
+
+Step 6: Change the title to display a winner
